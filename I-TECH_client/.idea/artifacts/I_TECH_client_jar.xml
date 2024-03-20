@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="I-TECH_client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/I_TECH_client_jar</output-path>
+    <root id="archive" name="I-TECH_client.jar">
+      <element id="module-output" name="I-TECH_client" />
+    </root>
+  </artifact>
+</component>

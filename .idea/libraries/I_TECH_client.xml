@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="I-TECH_client">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/I-TECH_client/out/artifacts/I_TECH_client_jar/I-TECH_client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
